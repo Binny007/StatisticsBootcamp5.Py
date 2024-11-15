@@ -1,5 +1,6 @@
 # StatisticsBootcamp5.Py
-Logistic Regression
+
+##Logistic Regression
 
 --> In this session, we have dive deep into the concepts of Logistic Regression. This method is perfect for tackling classification proeblems where dependent or output variable is binary.
 
@@ -8,6 +9,8 @@ Logistic Regression
 --> As we dive into this new problem solving, we will also need to adapt our analytical solution, and this is what we are going to cover as well, because we need to change how we measure accuracy. There are some changes when we have classification problems that we use Logistic Regression model, and we need to learn how to fine-tune, how to measure accuracy for our predictions.
 
 --> We will also have a new way of interpreting coefficients, because this is very important for informed decision-making.
+
+##Case Study
 
 ==> Moreover, we have a fun case study on predicting email spam. So, is the email that you are receiving are a spam or non spam? This is what you are going to predict.
 
