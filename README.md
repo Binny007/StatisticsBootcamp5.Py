@@ -11,7 +11,7 @@ Logistic Regression
 
 ==> Moreover, we have a fun case study on predicting email spam. So, is the email that you are receiving are a spam or non spam? This is what you are going to predict.
 
-==> So the dataset(spam.csv) has around 5000 email records. Our main goal is to look into the factors thatt characterize spam emails and use the power of Logistic Regression to predict them accurately.
+==> So the dataset(spam.csv) has around 4601 email items, of which 1813 items were identified as spam. Our main goal is to look into the factors thatt characterize spam emails and use the power of Logistic Regression to predict them accurately.
 
       --> To help us, we have some fun predictors at our disposal such as the frequency of the word "money" in an email, because this could potentially signify a financial motive behind the message which is common            trait in spam emails.
 
